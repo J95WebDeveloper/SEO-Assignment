@@ -1,0 +1,19 @@
+Q5. Define Favicon and give an illustrative example.
+
+Answer - 
+
+Favicon : 
+
+* A small icon displayed in the browser tab, bookmarks and address bar.
+
+* To add a favicon to your website, either save your favicon image to the 
+  root directory of your webserver or create a folder in the root directory
+  called images and save your favicon image in this folder.
+
+* Save the image with a suitable filename such as "favicon.png" or "favicon.ico".
+
+* Define href attribute to provide the URL of the favicon image.
+
+* Optionally set the type attribute to Specify the image type.
+
+     Ex - <link rel="icon" href="favicon.ico" type="image/x-icon" >

@@ -1,0 +1,20 @@
+Q3. What are the Benefits of using meta tags.
+
+Answer - 
+
+Benefits - 
+
+* Improves SEO : Help search engines understand and rank the content.
+                ex- <meta name='description' content='A brief description of the webpage'>
+
+* Enhances User Experience : Provides information like page description and viewport 
+                             settings for responsive design.
+                             ex - <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+
+* Controls Content : 
+
+       * Prevents duplication :  <meta name='robots' content='noindex, nofollow'>   
+
+       * Sets refresh intervals : <meta http-equiv='refresh' content='30'>  
+
+       * Specifies content type :  <meta http-equiv='Content-type' content='text/html; charset=UTF-8'>                      
